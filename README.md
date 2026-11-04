@@ -4,5 +4,5 @@ I am a data analyst and quantitative social scientist based in Vancouver. I turn
 
 Ten years analyzing mortgage portfolios, infrastructure finance and crime statistics. <a href="https://masterdatascience.ubc.ca">Master of Data Science</a> (University of British Columbia) and <a href="https://fordschool.umich.edu/mpp-mpa/mpp">Master of Public Policy</a> (University of Michigan).
 
-👀 I’m interested in economics, finance, econometrics, data science and how institutions and democracies hold up under economic stress.
+I’m interested in economics, finance, econometrics, data science and how institutions and democracies hold up under economic stress.
 
